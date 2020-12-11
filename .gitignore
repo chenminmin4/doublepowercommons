@@ -1,3 +1,9 @@
+#  local project config
+.idea/
+.project
+.settings/
+
+
 # ---> ThinkPHP
 # gitignore template for ThinkPHP v3.2.3
 # website: http://www.thinkphp.cn/
@@ -7,3 +13,5 @@
 
 # Common configure file
 /Application/Common/Conf/config.php
+/vendor/
+*/vendor/
