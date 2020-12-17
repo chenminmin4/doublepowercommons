@@ -12,5 +12,10 @@
             "email": "chenminmin4@hotmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "fulicommons\\": "src",
+        }
+    }
 }
