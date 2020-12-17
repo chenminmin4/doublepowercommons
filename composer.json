@@ -2,8 +2,8 @@
     "name": "fulitech/fulicommons",
     "type": "library",
     "require": {
-        "endroid/qrcode": "^3.0@dev",
-        "topthink/think": "dev-master"
+        "endroid/qrcode": "3.9.6",
+        "topthink/think": "6.0.5"
     },
     "license": "MIT",
     "authors": [
