@@ -1,0 +1,16 @@
+{
+    "name": "fulitech/fulicommons",
+    "type": "library",
+    "require": {
+        "endroid/qrcode": "^3.0@dev",
+        "topthink/think": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "闽敏 陈",
+            "email": "chenminmin4@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
